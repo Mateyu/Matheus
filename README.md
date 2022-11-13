@@ -1,6 +1,6 @@
 Olá, Me chamo Matheus Henrique 😊
 
-Terminei Recentemente o curso de Analista de Sistema e estou em buscar do meu primeiro emprego como progamador, gostaria de entrar na parte de Front-End, onde me adapatei melhor, porém tenho conhecimento também com o Back-End.
+Terminei Recentemente o curso de Analise e Desenvolvimento de Sistema e estou em buscar do meu primeiro emprego como progamador, gostaria de entrar na parte de Front-End, onde me adapatei melhor, apesar de também deter conhecimento com o Back-End.
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-henrique-a430b2239/)
